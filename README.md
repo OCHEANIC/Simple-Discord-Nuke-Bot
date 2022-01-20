@@ -2,9 +2,12 @@
 * Python 3.10.1 - 3.7.2
 ***
 # Features
- - [x] Spam in channels
- - [x] Create Channels
- - [X] Create Roles
+ - [ ] Spam in channels
+ - [ ] Create Channels
+ - [ ] Create Roles
+ - [X] Ban members
+ - [X] Delete channels
+ - [X] Delete roles
 
 ## 💨 Run the bot
 
